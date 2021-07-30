@@ -1,0 +1,13 @@
+[package]
+name = "dummy-waker"
+version = "1.0.0"
+description = "Get a `core::task::Waker` that does absolutely nothing."
+keywords = ["async", "futures", "no-std", "tests", "testing"]
+categories = ["asynchronous", "concurrency", "no-std"]
+authors = ["James Laver <james.laver@gmail.com>"]
+homepage = "https://github.com/irrustible/dummy-waker"
+repository = "https://github.com/irrustible/dummy-waker"
+documentation = "https://docs.rs/dummy-waker"
+edition = "2018"
+license = "Apache-2.0 WITH LLVM-exception"
+readme = "README.md"
