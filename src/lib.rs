@@ -8,6 +8,7 @@
 // intentionally submitted for inclusion in the work by you, as
 // defined in the Apache-2.0 license, shal l be licensed as above,
 // without any additional terms or conditions.
+#![no_std]
 use core::task::{RawWaker, RawWakerVTable, Waker};
 
 const VTABLE: RawWakerVTable =
