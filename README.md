@@ -12,6 +12,8 @@ Usage:
 dummy_waker::dummy_waker()
 ```
 
+MSRV: 1.40.0
+
 ## Copyright and License
 
 Copyright (c) 2021 James Laver
